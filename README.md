@@ -23,7 +23,7 @@ A calculadora exibe um menu de opções para o usuário escolher a operação de
 2. **Instruções de Compilação**:
 
    - Abra um terminal.
-   - Navegue até o diretório onde o arquivo fonte (`calculadora.c`) está localizado.
+   - Navegue até o diretório onde o arquivo fonte (`calculadoraV2.c`) está localizado.
    - Compile o código-fonte utilizando o comando:
      ```
      gcc calculadora.c -o calculadora
@@ -32,7 +32,7 @@ A calculadora exibe um menu de opções para o usuário escolher a operação de
 
    - Após compilar o código, execute o programa gerado com o comando:
      ```
-     ./calculadora
+     ./calculadoraV2
      ```
 
 ## Autor
