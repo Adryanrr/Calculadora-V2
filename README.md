@@ -37,7 +37,7 @@ A calculadora exibe um menu de opções para o usuário escolher a operação de
 
 ## Autor
 
-- Nome: Adryan Ryan
+- Nome: Adryan Ryan.
 - Instagram: [@adryanrr](https://instagram.com/adryanrr)
 
 ## Licença
